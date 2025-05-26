@@ -1,4 +1,5 @@
 # New Project
 
-This is a new project or demo for understanding git. 
+This is a new project or demo for understanding git.
+ 
 Adding new comments.
